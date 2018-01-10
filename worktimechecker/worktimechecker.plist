@@ -17,9 +17,9 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>kr.hist.worktimechecker</string>
+                                <string>kr.hist.worktimechecker.oem</string>
                                 <key>bundle-version</key>
-                                <string>test version</string>
+                                <string>2.0.5</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
